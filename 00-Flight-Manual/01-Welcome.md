@@ -10,7 +10,6 @@ The Flight Manual is your guide to everything course related, but NOT about codi
 
 * SSA - Student Success Administrator
 * TA - Teaching Assistant
-* Canvas
 
 ## Table of Contents
 

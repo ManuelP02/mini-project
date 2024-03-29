@@ -16,7 +16,7 @@
 
 ## Zoom and Screenshare
 
-- Everyone’s video will **always** be on during class! If a valid reason can be given to the instructional staff for camera on, it may be waived. However, we **highly** encourage camera on. _(Video can be turned off during breaks/dinner)_
+- Everyone’s video will **always** be on during class! If a valid reason can be given to the instructional staff for the camera to be off, it may be waived. However, we **highly** encourage camera on. _(Video can be turned off during breaks/dinner)_
 - Students can use Zoom’s “Virtual Background” feature to mask visual background distractions.
 - Students could be asked to share screen during in-class activities.
 - If a student needs an exception to the above policy, please contact the instructor directly via Slack.
@@ -41,7 +41,7 @@
 
 ## Feedback
 
-- This course utilizes several feedback methods. The include, but are not limited to:
+- This course utilizes several feedback methods. They include, but are not limited to:
   - "Fist-to-Five" polls
   - Weekly feedback
   - Randomized questions.
