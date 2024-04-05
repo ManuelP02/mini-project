@@ -13,6 +13,6 @@ Confirm that you received your invite to Slack and be sure to download the App v
 
 ## Folder Structures
 1. 00-Flight-Manual (good know-hows for class)
-2. TBD
+2. 01-HTML-Git-CSS
 
 Misc:  Class-Slides (Where you will find the week's slides)
