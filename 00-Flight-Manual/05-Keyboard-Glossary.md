@@ -2,7 +2,7 @@
 
 Have you ever looked at all the symbols on your computer’s keyboard and thought “What is that and who would ever use it?”  In this class, you will use nearly every symbol on your keyboard!  You might know most of these, but a few might be new to you.  Here’s a list of names of some of these symbols, where to find them on your keyboard, and a brief explanation of how they are used.
 
-## Ampersand:  &   
+## Ampersand: &   
 Used as a double ampersand like this: “&&” and is the logical “AND” operator in javascript conditional statements.
 
 ## Angle Brackets: < >  
