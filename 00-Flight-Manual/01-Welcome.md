@@ -23,5 +23,3 @@ The Flight Manual is your guide to everything course related, but NOT about codi
 08. Resources
 09. Class Content Structure
 10. ChatGPT, Co-Pilot, & AI
-
-<!-- Adding something for Jung to demonstrating pulling new class material -->
